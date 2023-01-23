@@ -1,0 +1,21 @@
+.mainSection{
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.notificationData{
+  margin-bottom: 8px;
+}
+
+.notificationName{
+  color: #696b6d;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 20px;
+}
+
+.horizontalSpace{
+  width: 50px;
+  border: 2px solid #4caeda;
+  border-radius: 50px;
+}
